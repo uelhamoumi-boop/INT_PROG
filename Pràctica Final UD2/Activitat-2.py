@@ -2,7 +2,7 @@
 print("Classificador d'alumnes per edat i assistència")
 
 n = int(input("Quants alumnes vols processar? "))
-i = 1
+i = 0
 
 while i < n:
     nom = str(input("Nom: "))
