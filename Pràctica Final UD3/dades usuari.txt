@@ -1,0 +1,3 @@
+Nom: Ubay
+Edat: 17
+Ciutat: xeresa
